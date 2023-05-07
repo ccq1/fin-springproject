@@ -78,14 +78,14 @@ NuxtJS：基于Vue.js构建的服务器端渲染应用的轻量级框架
 
 
 
-![image-20230507211840692](../Downloads/Simple-Mail-Server-master/images/image-20230507211840692.png)四、项目功能演示
+![image-20230507211840692](./img/image-20230507211840692.png)四、项目功能演示
 
 1.后端
 
 
 
-![image-20230507211930598](../Downloads/Simple-Mail-Server-master/images/image-20230507211930598.png)
+![image-20230507211930598](./img/image-20230507211930598.png)
 
 2.前端
 
-![image-20230507211945382](../Downloads/Simple-Mail-Server-master/images/image-20230507211945382.png)
+![image-20230507211945382](./img/image-20230507211945382.png)
