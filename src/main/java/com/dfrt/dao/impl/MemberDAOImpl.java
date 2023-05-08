@@ -32,9 +32,9 @@ public class MemberDAOImpl implements MemberDAO {
             Class.forName("com.mysql.jdbc.Driver");
 
             //2 用驱动管理器创建连接
-            String url = "jdbc:mysql://localhost:3306/db_shop_0506";
+            String url = "jdbc:mysql://localhost:3306/db_shop_0506?useSSL=false";
             String username = "root";
-            String password = "root";
+            String password = "1234";
 
             Connection conn = DriverManager.getConnection(url, username, password);
 
@@ -74,9 +74,9 @@ public class MemberDAOImpl implements MemberDAO {
             Class.forName("com.mysql.jdbc.Driver");
 
             //2 用驱动管理器创建连接
-            String url = "jdbc:mysql://localhost:3306/db_shop_0506";
+            String url = "jdbc:mysql://localhost:3306/db_shop_0506?useSSL=false";
             String username = "root";
-            String password = "root";
+            String password = "1234";
 
             Connection conn = DriverManager.getConnection(url, username, password);
 
